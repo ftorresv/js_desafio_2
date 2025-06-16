@@ -1,0 +1,22 @@
+.roboto-title {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+  text-align: center;
+}
+.img{
+    position: relative;
+    padding-bottom: 10px;
+    margin: 15px;
+    width: 300px;
+    max-width: 100%;
+    }
+.img img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  display: block;
+}
